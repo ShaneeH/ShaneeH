@@ -5,7 +5,7 @@ full stack, and systems engineering.
 
 ## Currently Building
 
-### Senus Financial Reporting Platform
+### Financial Reporting Platform
 
 An AI assisted financial reporting platform built with Angular,
 Node.js, Express, PostgreSQL, and the OpenAI API.
